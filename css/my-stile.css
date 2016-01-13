@@ -9,7 +9,7 @@
 
 #title {
 	color: #00ccff;
-	font-size: 60px;
+	font-size: 3em;
 }
 
 .box {
@@ -18,8 +18,23 @@
 }
 
 .keybenefit {
-	font-size: 20px;
+	font-size: 1em;
 	color: #000000;
 	z-index: 1;
 }
 
+#fraseffetto {
+	padding-top: 6em;
+	color: white;
+	text-align: center;
+	font-size: 2em;
+}
+
+.jumbotron {
+	background-size: cover;
+	background-image: url("../img/anziani.jpg");
+}
+
+.scarica{
+	margin-top: 2em;
+}
