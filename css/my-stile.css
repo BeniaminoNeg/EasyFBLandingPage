@@ -6,3 +6,20 @@
 	position: fixed;
 	z-index: -1;
 }
+
+#title {
+	color: #00ccff;
+	font-size: 60px;
+}
+
+.box {
+	background-color: white;
+	opacity: 0.4;
+}
+
+.keybenefit {
+	font-size: 20px;
+	color: #000000;
+	z-index: 1;
+}
+
